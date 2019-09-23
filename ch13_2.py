@@ -27,4 +27,4 @@ for item in list:
     x=int(item['count'])
     total=total +x
 
-print(total)
+print('total='total)
